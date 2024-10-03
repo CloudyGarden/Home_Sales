@@ -4,4 +4,4 @@ In this challenge, I used knowledge of SparkSQL and pySpark to find key metrics 
 
 This challenge was completed using Google Colabs.
 
-I used knowledge and code gleamed from class lecture, course materials, and Xpert Learning Assistant to help me complete this challenge.
+I used knowledge and code gleaned from class lecture, course materials, and Xpert Learning Assistant to help me complete this challenge.
